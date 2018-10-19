@@ -1,3 +1,12 @@
 <resources>
+    <!-- General -->
     <string name="app_name">Android Challenge</string>
+    <string name="all_camera">Cámara</string>
+    <string name="all_comments">Comentarios</string>
+    <string name="all_description">Descripción</string>
+    <string name="all_gallery">Galería</string>
+    <string name="all_general_error">Ha ocurrido un error, intente nuevamente más tarde</string>
+    <string name="all_search">Buscar</string>
+    <string name="all_select_option">Seleccionar opción</string>
+    <string name="all_upload_image">Subir imagen</string>
 </resources>
