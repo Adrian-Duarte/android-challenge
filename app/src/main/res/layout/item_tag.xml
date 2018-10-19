@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_height="wrap_content"
+    android:paddingBottom="16dp"
+    android:paddingEnd="8dp"
+    android:paddingStart="8dp"
+    android:paddingTop="16dp"
+    android:layout_width="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/tv_display_name"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:textColor="@color/colorAccent"
+        android:textSize="16sp"
+        tools:text="Tag"
+        />
+
+</android.support.constraint.ConstraintLayout>
